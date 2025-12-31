@@ -100,12 +100,7 @@
       />
     </a>
 
-    <a href="mailto:Nelsonakalia12@gmail.com">
-      <img
-        src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white"
-        alt="Email"
-      />
-    </a>
+   
   </p>
 
   <br />
