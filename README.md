@@ -63,7 +63,7 @@
 
   <h4>Backend & Databases</h4>
   <p>
-    Node.js &nbsp;•&nbsp; MongoDB &nbsp;•&nbsp; PostgreSQL (ORM)
+    Node.js &nbsp;•&nbsp; MongoDB &nbsp;•&nbsp; PostgreSQL 
   </p>
 
   <h4>Cloud & DevOps</h4>
